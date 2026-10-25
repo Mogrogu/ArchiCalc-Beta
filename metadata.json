@@ -1,0 +1,8 @@
+{
+  "name": "Remix ArchiCalc",
+  "description": "Professional architectural dimensional calculator for iOS and Android. Supports feet, inches, fractions, metric units, area, and volume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
